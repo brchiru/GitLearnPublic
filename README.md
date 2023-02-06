@@ -1,3 +1,0 @@
-# GitLearnPublic
-Chiru learning
-Welcome
